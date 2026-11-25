@@ -1,4 +1,3 @@
-
 import Link from "next/link";
 
 export default function RrethNesh() {
@@ -57,7 +56,7 @@ export default function RrethNesh() {
 
           <div>
             <img
-              src="/images/auto-servic-dafi.png"
+              src="/images/diagnostikim.jpg"
               alt="Auto Servic Dafi"
               className="w-full rounded-xl object-cover shadow-2xl"
             />
@@ -109,9 +108,9 @@ export default function RrethNesh() {
         </div>
       </section>
 
-      <footer className="border-t border-white/10 px-6 py-8 text-center text-sm text-gray-500">
-        © {new Date().getFullYear()} Auto Servic Dafi · Gostivar
-      </footer>
+<footer className="border-t border-white/10 px-6 py-8 text-center text-sm text-gray-500">
+  © 2026 Auto Servic Dafi · Gostivar
+</footer>
 
     </main>
   );
